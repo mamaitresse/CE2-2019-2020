@@ -3,8 +3,8 @@
 |===
 
 | *Anglais* | How old are you ? +
-Ecoute la nouvelle chanson
-link:https://www.youtube.com/watch?v=4Du-AyqMNN4[« How old are you ? » , window ="_blank"]  +
+Ecoute la nouvelle chanson « How old are you ? » +
+video::4Du-AyqMNN4[youtube, width=640]
 
 Relis la leçon « How old are you ? »  +
 Ecoute chaque personnage et associe-le à son gâteau d'anniversaire +
