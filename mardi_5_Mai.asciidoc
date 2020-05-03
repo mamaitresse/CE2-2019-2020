@@ -3,11 +3,16 @@
 |===
 
 | *Anglais* | How old are you ? +
-Ecoute la nouvelle chanson « How old are you ? » 
+Ecoute la nouvelle chanson
+|===
 
-video::4Du-AyqMNN4[youtube]
+[.text-center]
+video::4Du-AyqMNN4[youtube, width=600, height=400]
 
-Relis la leçon « How old are you ? »  +
+[cols="^, 1*"]
+|===
+
+| Anglais | Relis la leçon « How old are you ? »  +
 Ecoute chaque personnage et associe-le à son gâteau d'anniversaire +
 Clique sur le lien
 http://classece1ce2.eklablog.com/how-old-are-you-a132216068[window = "_blank"] +
@@ -77,8 +82,15 @@ Clique sur le bouton à droite
 
 | **EMC** +
 en lien avec le 8 mai | La seconde guerre mondiale :
-Regarde une autre vidéo             Clique sur le lien
-https://www.youtube.com/watch?v=PFAvorh4LmI
+Regarde une autre vidéo
+
+|===
+
+|===
+
+[.text-center]
+video::PFAvorh4LmI[youtube, width=600, height=400]
+
 Relis la fiche leçon                  Clique sur le bouton à droite
 
 | **EPS**	| Jeux de l'oie gainage et cardio +
