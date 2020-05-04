@@ -1,12 +1,12 @@
-=== JEUDI 7 MAI 2020 
+== JEUDI 7 MAI 2020 
 
-==== Anglais
+=== Anglais
 *How old are you ? Regarde la vidéo :*
 
 [.text-center]
 video::4Du-AyqMNN4[youtube, width=600, height=400]
 
-==== Anglais
+=== Anglais
 *Ecoute la nouvelle chanson « How old are you ? »*
 
 [.text-center]
@@ -18,6 +18,11 @@ video::SiIcGbyi4_k[youtube, width=600, height=400]
 |===
 
 
+=== Orthographe
+*Dictée* | Ecoute le fichier son de la dictée de Jeudi 7
+
+[.text-center]
+audio::https://mamaitresse.github.io/CE2-2019-2020/semaine_32/Dictée_jeudi_7.m4a
 
 Orthographe	
 Dictée Jour 2 et 3 : Ecoute le fichier son de la dictée de Jeudi 7
