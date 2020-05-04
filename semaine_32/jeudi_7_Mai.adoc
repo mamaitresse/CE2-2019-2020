@@ -6,6 +6,7 @@
 [.text-center]
 video::4Du-AyqMNN4[youtube, width=600, height=400]
 
+[.text-center]
 *Ecoute la nouvelle chanson « How old are you ? »*
 
 [.text-center]
@@ -27,6 +28,8 @@ A la fin, écoute à nouveau la dictée pour vérifier les majuscules, la ponctu
 https://mamaitresse.github.io/CE2-2019-2020/semaine_32/Semaine_dictee_J2_et_J3.pdf[Ensuite, corrige ta dictée, window = "_blank"]
 
 === Préparation de dictée
+
+[.text-center]
 Regarde la vidéo             
  
 [.text-center]
