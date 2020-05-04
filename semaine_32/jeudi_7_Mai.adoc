@@ -14,7 +14,7 @@ video::SiIcGbyi4_k[youtube, width=600, height=400]
 
 [cols="^, 1*"]
 |===
-| *Anglais* | https://mamaitresse.github.io/CE2-2019-2020/semaine32/Lecon_Les_nombres_fiche_2_uniquement.pdf[Relis la leçon sur les nombres, window = "_blank"]
+| *Anglais* | https://mamaitresse.github.io/CE2-2019-2020/semaine_32/Lecon_Les_nombres_fiche_2_uniquement.pdf[Relis la leçon sur les nombres, window = "_blank"]
 |===
 
 
