@@ -74,11 +74,11 @@ Lis le texte {site}/{semaine}/Tapuscrit-OTTO-MDLF-LECTURE-3.pdf[Lecture 3, windo
 
 
 | *Grammaire* +
-Texte 26 : _« Les retrouvailles »_ | {site}/{semaine}/Exercices_semaine_1_les_retrouvailles.pdf[Fais les exercices 7 8 et 9, window = "_blank"]
+Texte 26 : _« Les retrouvailles »_ | {site}/{semaine}/Exercices_semaine_1_Les_retrouvailles.pdf[Fais les exercices 7 8 et 9, window = "_blank"]
 
 puis
 
-{site}/{semaine}/Correction_exercices_semaine_1_les_retrouvailles.pdf[Corrige les exercices 7 8 et 9, window = "_blank"]
+{site}/{semaine}/Correction_exercices_semaine_1_Les_retrouvailles.pdf[Corrige les exercices 7 8 et 9, window = "_blank"]
 
 
 | *Vocabulaire* | Les expressions avec le mot nez (En lien avec le texte 26 : _« Les retrouvailles »_) +
