@@ -26,7 +26,7 @@ video::SiIcGbyi4_k[youtube, width=600, height=400]
 audio::https://mamaitresse.github.io/CE2-2019-2020/semaine_32/Dictee_jeudi_7.m4a[]
 
 A la fin, écoute à nouveau la dictée pour vérifier les majuscules, la ponctuation, que tu as écrit tous les mots et que tu as fait tous les accords, puis chasse les erreurs. +
-https://mamaitresse.github.io/CE2-2019-2020/semaine_32/Semaine_dictee_J2_et_J3.pdf[Ensuite, corrige ta dictée, window = "_blank"]
+https://mamaitresse.github.io/CE2-2019-2020/semaine_32/Semaine_dictee_J2_et_J3.pdf["Ensuite, corrige ta dictée", window = "_blank"]
 
 === Préparation de dictée
 
