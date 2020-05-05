@@ -36,26 +36,28 @@ Regarde la vidéo
 [.text-center]
 video::vXK5G9tWkS4[youtube, width=600, height=400]
  
-        
-Fais l’exercice 3                                         Clique sur le bouton à droite
-Corrige l'exercice 3                                        Clique sur le bouton à droite
+[cols="^, 1*"]
+|===
+| *Préparation de dictée* | https://mamaitresse.github.io/CE2-2019-2020/semaine_32/Exercices_Semaine_1_Les_retrouvailles.pdf[
+Fais l’exercice 3, window = "_blank"]
 
+|  | https://mamaitresse.github.io/CE2-2019-2020/semaine_32/Correction_exercices_Semaine_1_Les_retrouvailles.pdf[
+Corrige l’exercice 3, window = "_blank"]
 
-
-Poésie	
-Surprise n°3 pour la fête des mères
-Lis les 2 poèmes, choisis-en un et recopie-le dans ton cahier de poésie puis illustre-le.
+| *Poésie* +
+Surprise n°3 pour la fête des mères | https://mamaitresse.github.io/CE2-2019-2020/semaine_32/Poesies_fete_maman.pdf["Lis les 2 poèmes", window = "_blank"], +
+choisis-en un et recopie-le dans ton cahier de poésie puis illustre-le. +
 Apprends-le en plusieurs fois afin de le réciter à ta maman dimanche matin.
 
 
-Littérature
-en lien avec le 8 mai
-	
-« Otto » de Tomi Ungerer
-Lis le texte Lecture 3                                Clique sur le bouton à droite
-Réponds au questionnaire Lecture 3  (à l'oral ou à l'écrit)      
-                                                               Clique sur le bouton à droite
-                                                       
+|===
+        
+| *Littérature* +
+en lien avec le 8 mai | « Otto » de _Tomi Ungerer_ +
+Lis le texte https://mamaitresse.github.io/CE2-2019-2020/semaine_32/Tapuscrit-OTTO-MDLF-LECTURE-3.pdf[Lecture 3, window = "_blank"]
+
+|  | 
+https://mamaitresse.github.io/CE2-2019-2020/semaine_32/questionnaires-OTTO-MDLF-LECTURE-3.pdf[Réponds au questionnaire Lecture 3, window = "_blank"] (à l'oral ou à l'écrit)
 
 Nombres et calculs
 	
