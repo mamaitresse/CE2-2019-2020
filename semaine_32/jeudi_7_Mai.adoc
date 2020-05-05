@@ -1,8 +1,14 @@
-== JEUDI 7 MAI 2020 
-:site: https://mamaitresse.github.io/CE2-2019-2020
+= JEUDI 7 MAI 2020 
+// :site: https://mamaitresse.github.io/CE2-2019-2020 
+:site: file:///Users/frvidal/Perso/isa/CE2-2019-2020
 :semaine: semaine_32
 
-=== Anglais
+image::{site}/{semaine}/mamans.jpg[width=100%]
+
+[.text-center]
+{site}/{semaine}/Plan_de_travail_jeudi_7_mai_2020.pdf[Plan de travail du jeudi 5 Mai, window = "_blank"]
+
+== Anglais
 [.text-center]
 *How old are you ? Regarde la vidéo :*
 
@@ -21,7 +27,7 @@ video::SiIcGbyi4_k[youtube, width=600, height=400]
 |===
 
 
-=== Orthographe
+== Orthographe
 *Dictée* : Ecoute le fichier son de la dictée de Jeudi 7
 
 [.text-center]
@@ -30,7 +36,7 @@ audio::{site}/{semaine}/Dictee_jeudi_7.m4a[]
 A la fin, écoute à nouveau la dictée pour vérifier les majuscules, la ponctuation, que tu as écrit tous les mots et que tu as fait tous les accords, puis chasse les erreurs. +
 {site}/{semaine}/Semaine_dictee_J2_et_J3.pdf["Ensuite, corrige ta dictée", window = "_blank"]
 
-=== Préparation de dictée
+== Préparation de dictée
 
 [.text-center]
 Regarde la vidéo             
@@ -43,41 +49,48 @@ video::vXK5G9tWkS4[youtube, width=600, height=400]
 | *Préparation de dictée* | {site}/{semaine}/Exercices_Semaine_1_Les_retrouvailles.pdf[
 Fais l’exercice 3, window = "_blank"]
 
-|  | {site}/{semaine}/Correction_exercices_Semaine_1_Les_retrouvailles.pdf[
+{site}/{semaine}/Correction_exercices_Semaine_1_Les_retrouvailles.pdf[
 Corrige l’exercice 3, window = "_blank"]
 
 | *Poésie* +
-Surprise n°3 pour la fête des mères | {site}/{semaine}/Poesies_fete_maman.pdf["Lis les 2 poèmes", window = "_blank"], +
+Surprise n°3 pour la fête des mères | {site}/{semaine}/Poesies_fete_maman.pdf["Lis les 3 poèmes", window = "_blank"], +
+
 choisis-en un et recopie-le dans ton cahier de poésie puis illustre-le. +
+
 Apprends-le en plusieurs fois afin de le réciter à ta maman dimanche matin.
         
 | *Littérature* +
 en lien avec le 8 mai | « Otto » de _Tomi Ungerer_ +
 Lis le texte {site}/{semaine}/Tapuscrit-OTTO-MDLF-LECTURE-3.pdf[Lecture 3, window = "_blank"]
 
-|  | {site}/{semaine}/questionnaires-OTTO-MDLF-LECTURE-3.pdf[Réponds au questionnaire Lecture 3, window = "_blank"] (à l'oral ou à l'écrit)
+{site}/{semaine}/questionnaires-OTTO-MDLF-LECTURE-3.pdf[Réponds au questionnaire Lecture 3, window = "_blank"] (à l'oral ou à l'écrit)
 
 | *Nombres et calculs* | *La division posée* : +   
 {site}/{semaine}/Lecon_la_division_posee_Fiches.pdf[Lis la leçon sur la division posée, window = "_blank"]
 
-| | {site}/{semaine}/La-division-posee-CE2-Exercice-jeudi.pdf[Fais les exercices  1, 2 et 3 (Fiche 3), window = "_blank"] +
+{site}/{semaine}/La-division-posee-CE2-Exercice-jeudi.pdf[Fais les exercices  1, 2 et 3 (Fiche 3), window = "_blank"] +
 
-| | {site}/{semaine}/La-division-posee-CE2-correction-jeudi.pdf[Puis corrige–les, window = "_blank"]. +
+{site}/{semaine}/La-division-posee-CE2-correction-jeudi.pdf[Puis corrige–les, window = "_blank"]. +
+
 
 | *Grammaire* +
-Texte 26 : « Les retrouvailles » | Fais les exercices 7, 8 et 9 
-| | Corrige les exercices 7, 8 et 9
+Texte 26 : _« Les retrouvailles »_ | {site}/{semaine}/Exercices_semaine_1_les_retrouvailles.pdf[Fais les exercices 7 8 et 9, window = "_blank"]
+
+puis
+
+{site}/{semaine}/Correction_exercices_semaine_1_les_retrouvailles.pdf[Corrige les exercices 7 8 et 9, window = "_blank"]
 
 
 | *Vocabulaire* | Les expressions avec le mot nez (En lien avec le texte 26 : _« Les retrouvailles »_) +
-Fais l'exercice 3 +
-Utilise l'aide sur les expressions avec le mot nez  +
-Corrige l'exercice 3  +
+{site}/{semaine}/VOCABULAIRE_Les_retrouvailles.pdf[Fais l'exercice 3, window = "_blank"] 
+
+__Utilise l'aide sur les expressions avec le mot nez__  +
+{site}/{semaine}/Correction_VOCABULAIRE_Les_retrouvailles.pdf[Corrige l'exercice 3, window = "_blank"] 
 
 |===
 
-=== EPS +
-Défi
+
+== EPS - Défi
 
 [.text-center]
 *Flashmob facile à faire en famille*
@@ -95,12 +108,13 @@ video::yFfNvxMXj7M[youtube, width=600, height=400]
 |===
 
 | *Cuisine* | Surprise n° 4 pour la fête des mères + 
-Lis la recette  n° 1 + 
-Lis la recette  n° 2 + 
-Lis la recette  n° 3 + 
+{site}/{semaine}/sucettes_coeurs_sables.pdf[Lis la recette  n° 1, window = "_blank"]. +
+{site}/{semaine}/Love_cookies_aux_pralines_roses_et_au_chocolat_blanc.pdf[Lis la recette  n° 2,  window = "_blank"]. +
+{site}/{semaine}/sucette_de_fraises_au_chocolat.pdf[Lis la recette  n° 3, window = "_blank"]. +
 Choisis la recette qui te plait pour la réaliser dimanche matin
 
-| *Devoirs* | pour lundi 11 mai + 
+| *Devoirs* | Pour *lundi 11 Mai* 
+
 *Orthographe* : Apprendre 12 mots de la liste 26 et bien revoir la préparation de dictée + 
 *EMC* : Apprendre la fiche élève sur la seconde guerre mondiale
 
