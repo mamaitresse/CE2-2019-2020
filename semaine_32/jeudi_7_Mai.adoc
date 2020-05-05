@@ -1,4 +1,6 @@
 == JEUDI 7 MAI 2020 
+:site: https://mamaitresse.github.io/CE2-2019-2020
+:semaine: semaine_32
 
 === Anglais
 [.text-center]
@@ -15,18 +17,18 @@ video::SiIcGbyi4_k[youtube, width=600, height=400]
 
 [cols="^, 1*"]
 |===
-| *Anglais* | https://mamaitresse.github.io/CE2-2019-2020/semaine_32/Lecon_Les_nombres_fiche_2_uniquement.pdf[Relis la leçon sur les nombres, window = "_blank"]
+| *Anglais* | {site}/{semaine}/Lecon_Les_nombres_fiche_2_uniquement.pdf[Relis la leçon sur les nombres, window = "_blank"]
 |===
 
 
 === Orthographe
-*Dictée* | Ecoute le fichier son de la dictée de Jeudi 7
+*Dictée* : Ecoute le fichier son de la dictée de Jeudi 7
 
 [.text-center]
-audio::https://mamaitresse.github.io/CE2-2019-2020/semaine_32/Dictee_jeudi_7.m4a[]
+audio::{site}/{semaine}/Dictee_jeudi_7.m4a[]
 
 A la fin, écoute à nouveau la dictée pour vérifier les majuscules, la ponctuation, que tu as écrit tous les mots et que tu as fait tous les accords, puis chasse les erreurs. +
-https://mamaitresse.github.io/CE2-2019-2020/semaine_32/Semaine_dictee_J2_et_J3.pdf["Ensuite, corrige ta dictée", window = "_blank"]
+{site}/{semaine}/Semaine_dictee_J2_et_J3.pdf["Ensuite, corrige ta dictée", window = "_blank"]
 
 === Préparation de dictée
 
@@ -38,69 +40,70 @@ video::vXK5G9tWkS4[youtube, width=600, height=400]
  
 [cols="^, 1*"]
 |===
-| *Préparation de dictée* | https://mamaitresse.github.io/CE2-2019-2020/semaine_32/Exercices_Semaine_1_Les_retrouvailles.pdf[
+| *Préparation de dictée* | {site}/{semaine}/Exercices_Semaine_1_Les_retrouvailles.pdf[
 Fais l’exercice 3, window = "_blank"]
 
-|  | https://mamaitresse.github.io/CE2-2019-2020/semaine_32/Correction_exercices_Semaine_1_Les_retrouvailles.pdf[
+|  | {site}/{semaine}/Correction_exercices_Semaine_1_Les_retrouvailles.pdf[
 Corrige l’exercice 3, window = "_blank"]
 
 | *Poésie* +
-Surprise n°3 pour la fête des mères | https://mamaitresse.github.io/CE2-2019-2020/semaine_32/Poesies_fete_maman.pdf["Lis les 2 poèmes", window = "_blank"], +
+Surprise n°3 pour la fête des mères | {site}/{semaine}/Poesies_fete_maman.pdf["Lis les 2 poèmes", window = "_blank"], +
 choisis-en un et recopie-le dans ton cahier de poésie puis illustre-le. +
 Apprends-le en plusieurs fois afin de le réciter à ta maman dimanche matin.
         
 | *Littérature* +
 en lien avec le 8 mai | « Otto » de _Tomi Ungerer_ +
-Lis le texte https://mamaitresse.github.io/CE2-2019-2020/semaine_32/Tapuscrit-OTTO-MDLF-LECTURE-3.pdf[Lecture 3, window = "_blank"]
+Lis le texte {site}/{semaine}/Tapuscrit-OTTO-MDLF-LECTURE-3.pdf[Lecture 3, window = "_blank"]
 
-|  | 
-https://mamaitresse.github.io/CE2-2019-2020/semaine_32/questionnaires-OTTO-MDLF-LECTURE-3.pdf[Réponds au questionnaire Lecture 3, window = "_blank"] (à l'oral ou à l'écrit)
+|  | {site}/{semaine}/questionnaires-OTTO-MDLF-LECTURE-3.pdf[Réponds au questionnaire Lecture 3, window = "_blank"] (à l'oral ou à l'écrit)
+
+| *Nombres et calculs* | *La division posée* : +   
+{site}/{semaine}/Lecon_la_division_posee_Fiches.pdf[Lis la leçon sur la division posée, window = "_blank"]
+
+| | {site}/{semaine}/La-division-posee-CE2-Exercice-jeudi.pdf[Fais les exercices  1, 2 et 3 (Fiche 3), window = "_blank"] +
+
+| | {site}/{semaine}/La-division-posee-CE2-correction-jeudi.pdf[Puis corrige–les, window = "_blank"]. +
+
+| *Grammaire* +
+Texte 26 : « Les retrouvailles » | Fais les exercices 7, 8 et 9 
+| | Corrige les exercices 7, 8 et 9
+
+
+| *Vocabulaire* | Les expressions avec le mot nez (En lien avec le texte 26 : _« Les retrouvailles »_) +
+Fais l'exercice 3 +
+Utilise l'aide sur les expressions avec le mot nez  +
+Corrige l'exercice 3  +
 
 |===
-| *Nombres et calculs* | *La division posée* : +   
-https://mamaitresse.github.io/CE2-2019-2020/semaine_32/Lecon_la_division_posee_Fiches.pdf[Lis la leçon sur la division posée, window = "_blank"]
-https://mamaitresse.github.io/CE2-2019-2020/semaine_32/La-division-posee-CE2-Exercice-jeudi.pdf[Fais les exercices  1, 2 et 3 (Fiche 3), window = "_blank"] +
-https://mamaitresse.github.io/CE2-2019-2020/semaine_32/La-division-posee-CE2-correction-jeudi.pdf[Puis corrige – les, window = "_blank"]. +
 
-Grammaire
-	
-Texte 26 : « Les retrouvailles »
-Fais les exercices 7, 8 et 9                 Clique sur le bouton à droite
-Corrige les exercices 7, 8 et 9            Clique sur le bouton à droite
-
-
-
-
-Vocabulaire
-	
-Les expressions avec le mot nez (En lien avec le texte 26 : « Les retrouvailles »)
-Fais l'exercice 3                                         Clique sur le bouton à droite
-Utilise l'aide sur les expressions avec le mot nez  
-                                                                        Clique sur le bouton à droite
-Corrige l'exercice 3                              Clique sur le bouton à droite
-
-
-
-EPS
+=== EPS +
 Défi
 
-	
-Flashmob facile à faire en famille :         Clique sur le lien 
-https://www.youtube.com/watch?v=Dw7MwZrgKw0           
-OU
-Flashmob un peu plus complexe (bon tuto)     Clique sur le lien 
-https://www.youtube.com/watch?v=yFfNvxMXj7M
+[.text-center]
+*Flashmob facile à faire en famille*
 
+[.text-center]
+video::Dw7MwZrgKw0[youtube, width=600, height=400]
 
+[.text-center]
+*Flashmob un peu plus complexe (bon tuto)*
 
-  Cuisine
-	Surprise n° 4 pour la fête des mères                                               Lis la recette  n° 1                  Clique sur le bouton à droite              Lis la recette  n° 2                  Clique sur le bouton à droite              Lis la recette  n° 3                  Clique sur le bouton à droite        Choisis la recette qui te plait pour la réaliser dimanche matin
+[.text-center]
+video::yFfNvxMXj7M[youtube, width=600, height=400]
 
-Devoirs
-pour lundi 11 mai	
-Orthographe : Apprendre 12 mots de la liste 26 et bien revoir la préparation de dictée
-EMC : Apprendre la fiche élève sur la seconde guerre mondiale
+[cols="^, 1*"]
+|===
 
+| *Cuisine* | Surprise n° 4 pour la fête des mères + 
+Lis la recette  n° 1 + 
+Lis la recette  n° 2 + 
+Lis la recette  n° 3 + 
+Choisis la recette qui te plait pour la réaliser dimanche matin
 
+| *Devoirs* | pour lundi 11 mai + 
+*Orthographe* : Apprendre 12 mots de la liste 26 et bien revoir la préparation de dictée + 
+*EMC* : Apprendre la fiche élève sur la seconde guerre mondiale
+
+|===
 
 Tu peux m’écrire à : maitresse.isabelle.rolland@gmail.com
