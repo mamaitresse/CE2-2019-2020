@@ -48,9 +48,6 @@ Corrige l’exercice 3, window = "_blank"]
 Surprise n°3 pour la fête des mères | https://mamaitresse.github.io/CE2-2019-2020/semaine_32/Poesies_fete_maman.pdf["Lis les 2 poèmes", window = "_blank"], +
 choisis-en un et recopie-le dans ton cahier de poésie puis illustre-le. +
 Apprends-le en plusieurs fois afin de le réciter à ta maman dimanche matin.
-
-
-|===
         
 | *Littérature* +
 en lien avec le 8 mai | « Otto » de _Tomi Ungerer_ +
@@ -59,13 +56,11 @@ Lis le texte https://mamaitresse.github.io/CE2-2019-2020/semaine_32/Tapuscrit-OT
 |  | 
 https://mamaitresse.github.io/CE2-2019-2020/semaine_32/questionnaires-OTTO-MDLF-LECTURE-3.pdf[Réponds au questionnaire Lecture 3, window = "_blank"] (à l'oral ou à l'écrit)
 
-Nombres et calculs
-	
-La division posée   
-Lis la leçon sur la division posée             Clique sur le bouton à droite
-Fais les exercices  1, 2 et 3 (Fiche 3)       Clique sur le bouton à droite
-Puis corrige – les.                                           Clique sur le bouton à droite
-                                  
+|===
+| *Nombres et calculs* | *La division posée* : +   
+https://mamaitresse.github.io/CE2-2019-2020/semaine_32/Lecon_la_division_posee_Fiches.pdf[Lis la leçon sur la division posée, window = "_blank"]
+https://mamaitresse.github.io/CE2-2019-2020/semaine_32/La-division-posee-CE2-Exercice-jeudi.pdf[Fais les exercices  1, 2 et 3 (Fiche 3), window = "_blank"] +
+https://mamaitresse.github.io/CE2-2019-2020/semaine_32/La-division-posee-CE2-correction-jeudi.pdf[Puis corrige – les, window = "_blank"]. +
 
 Grammaire
 	
