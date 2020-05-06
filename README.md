@@ -1,6 +1,4 @@
-
-
-## Semaine 32
+## Semaine 6 
 
 [Videos de la classe](https://mamaitresse.github.io/CE2-2019-2020/semaine_32/videos_jeudi_7_Mai.html)
 
