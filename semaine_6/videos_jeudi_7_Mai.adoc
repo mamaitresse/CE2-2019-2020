@@ -3,10 +3,18 @@
 // :site: file:///Users/frvidal/Perso/isa/CE2-2019-2020
 :semaine: semaine_6
 
-=== La classe
+[cols="a,a"]
+!===
+| 
+[.text-center]
+la classe | 
+[.text-center]
+Un message de la maitresse
 
+|
+[.text-center]
 video::{site}/{semaine}/IMG_8570.MOV[width=300]
-
-=== Un message de la maitresse
-
+|
+[.text-center]
 video::{site}/{semaine}/IMG_8586.MOV[width=300]
+!===
