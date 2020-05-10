@@ -87,6 +87,8 @@ https://www.lumni.fr/video/l-imparfait-un-temps-regulier[window="_blank"]
 
 Quelles sont les terminaisons à l'imparfait avec : tu ? nous ?
 
+{site}/{semaine}/L_imparfait_des_verbes_en_ER_etre_avoir_17.pdf["Lis la leçon sur l’imparfait des verbes en 'ier', 'ser', 'ger'", window = "_blank"]
+
 {site}/{semaine}/Exercices_Texte_24_Le_poeme.pdf["Fais l'exercice 2 et 3", window = "_blank"] 
 
 {site}/{semaine}/Corrige_exercices_Texte_24_Le_poeme.pdf["Corrige l'exercice 2 et 3", window = "_blank"] 
