@@ -1,6 +1,6 @@
 = Mardi 12 MAI 2020 
-// :site: https://mamaitresse.github.io/CE2-2019-2020 
-:site: file:///Users/frvidal/Perso/isa/CE2-2019-2020
+:site: https://mamaitresse.github.io/CE2-2019-2020 
+// :site: file:///Users/frvidal/Perso/isa/CE2-2019-2020
 :semaine: semaine_7
 
 [.text-center]
@@ -13,17 +13,21 @@ image::{site}/{semaine}/semaine_7.jpeg[width=640]
 Le lavage des mains et les gestes barrières	+
 **Se laver les mains : le meilleur moyen de se débarrasser des microbes et donc du COVID-19**
 
+[cols="a,a"]
+|=== 
+|
 [.text-center]
-video::UNHMb0aLKJI[youtube, width=600, height=400]
-
+video::UNHMb0aLKJI[youtube, width=500, height=320]
+|
 [.text-center]
-video::HXSP-ph_wvE[youtube, width=600, height=400]
+video::HXSP-ph_wvE[youtube, width=500, height=320]
 
+| 
 
-[cols="^, 1*"]
-|===
-| *RAPPELS* | {site}/{semaine}/POSTER_A4_les_gestes_barrieres.pdf["Les gestes barrières illustrés", window = "_blank"]
-| | {site}/{semaine}/Le_Petit_Quotidien_6211.pdf["Le Petit Quotidien", window = "_blank"] : Le déconfinement se fera petit à petit, car le coronavirus n’a pas disparu
+[.text-right] 
+*RAPPELS* 
+| {site}/{semaine}/Les_gestes_barrieres_illustres.pdf["Les gestes barrières illustrés", window = "_blank"] +
+{site}/{semaine}/Le_Petit_Quotidien_6211.pdf["Le Petit Quotidien", window = "_blank"] : Le déconfinement se fera petit à petit, car le coronavirus n’a pas disparu
 |===
 
 
@@ -78,7 +82,8 @@ _(sujet/verbe et déterminants/noms/adjectifs)_
 Regarde à nouveau les petites vidéos : +
 https://vimeo.com/48578385[window="_blank"] +
 https://www.lumni.fr/video/l-imparfait-un-temps-regulier[window="_blank"]
-Transpose à l'oral le texte à l'imparfait en faisant expliquer par Arthur et Jules
+
+{site}/{semaine}/Fil_conducteur_Jour_2_Texte_24_Le_poeme.pdf[Transpose à l'oral le texte à l'imparfait en faisant expliquer par Arthur et Jules, window = "_blank"]
 
 Quelles sont les terminaisons à l'imparfait avec : tu ? nous ?
 
@@ -98,15 +103,16 @@ Les mots de la même famille et les différents sens du mot journal
 
 | *QUESTIONNER LE MONDE* +
 Sciences | *Défi* : « Sec même au fond de l'eau » +
-{site}/{semaine}/R4_Sec_m_me_au_fond_de_l_eau.pdf[Lis la fiche d'expérience, window = "_blank"]
+*Réalise l'expérience* : Essaie de mettre une feuille de papier au fond de l'eau sans la mouiller. +
+*Matériel nécessaire* : 1 bassine remplie d'eau, 1 verre, des feuilles +
 
 _Que va-t-il se passer ?_ Note d'abord tes hypothèses sur une feuille de classeur.
 
-*Réalise l'expérience* : Essaie de mettre une feuille de papier au fond de l'eau sans la mouiller. +
-*Matériel nécessaire* : 1 bassine remplie d'eau, 1 verre, des feuilles +
 *Conseil* : Tu peux froisser la feuille de papier
 
 Note tes observations sur ta feuille de classeur
+
+{site}/{semaine}/R4_Sec_m_me_au_fond_de_l_eau.pdf[Lis la fiche d'expérience, window = "_blank"]
 
 | *Devoirs* | *Pour le jeudi 14 Mai* 
 
