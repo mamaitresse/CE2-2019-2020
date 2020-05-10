@@ -1,6 +1,6 @@
 = LUNDI 11 MAI 2020 
-:site: https://mamaitresse.github.io/CE2-2019-2020 
-// :site: file:///Users/frvidal/Perso/isa/CE2-2019-2020
+// :site: https://mamaitresse.github.io/CE2-2019-2020 
+:site: file:///Users/frvidal/Perso/isa/CE2-2019-2020
 :semaine: semaine_7
 
 image::{site}/{semaine}/semaine_7.jpeg[width=720]
@@ -12,17 +12,21 @@ image::{site}/{semaine}/semaine_7.jpeg[width=720]
 Le lavage des mains et les gestes barrières	+
 **Se laver les mains : le meilleur moyen de se débarrasser des microbes et donc du COVID-19**
 
+[cols="a,a"]
+|=== 
+|
 [.text-center]
-video::UNHMb0aLKJI[youtube, width=600, height=400]
-
+video::UNHMb0aLKJI[youtube, width=500, height=320]
+|
 [.text-center]
-video::HXSP-ph_wvE[youtube, width=600, height=400]
+video::HXSP-ph_wvE[youtube, width=500, height=320]
 
+| 
 
-[cols="^, 1*"]
-|===
-| *RAPPELS* | {site}/{semaine}/POSTER_A4_les_gestes_barrieres.pdf["Les gestes barrières illustrés", window = "_blank"]
-| | {site}/{semaine}/Le_Petit_Quotidien_6211.pdf["Le Petit Quotidien", window = "_blank"] : Le déconfinement se fera petit à petit, car le coronavirus n’a pas disparu
+[.text-right] 
+*RAPPELS* 
+| {site}/{semaine}/Les_gestes_barrieres_illustres.pdf["Les gestes barrières illustrés", window = "_blank"] +
+{site}/{semaine}/Le_Petit_Quotidien_6211.pdf["Le Petit Quotidien", window = "_blank"] : Le déconfinement se fera petit à petit, car le coronavirus n’a pas disparu
 |===
 
 
@@ -61,49 +65,48 @@ video::UAb9Y4JoEx8[youtube, width=600, height=400]
 
 Révise les tables de multiplication x 6, x 7, x 8 : {site}/{semaine}/Les_tables_de_7__8_et_9_coloriage_mathematique.pdf["coloriage magique", window = "_blank"]
         
-| *Littérature* +
+| *LITTERATURE* +
 en lien avec le 8 mai | « Otto » de _Tomi Ungerer_ +
 Lis le texte {site}/{semaine}/Tapuscrit-OTTO-MDLF-4.pdf["Lis la Lecture 4 « Les américains »", window = "_blank"]
 
-{site}/{semaine}/questionnaires-OTTO-MDLF-4.pdf["Réponds au questionnaire Lecture 4", window = "_blank"] (à l'oral ou à l'écrit)
+{site}/{semaine}/questionnaires-OTTO-MDLF-4.pdf["Réponds au questionnaire Lecture 4", window = "_blank"] *(exercice numéro 1 uniquement)* (à l'oral ou à l'écrit)
 
 | *ARTS VISUELS* | Surprise n° 5 pour la fête des mères + 
-{site}/{semaine}/Fiche_de_fabrication_La_Gazette_des_Mamans.pdf[Lis la fiche de fabrication, window = "_blank"]. +
+{site}/{semaine}/tobedefined.pdf[Lis la fiche de fabrication, window = "_blank"]. +
 
-{site}/{semaine}/Fiche_a_imprimer_Gazette_de_la_meilleure_maman.pdf[Imprime le patron, window = "_blank"], réalise ton carnet accordéon et personnalise-le.
+{site}/{semaine}/Patron_pour_le_carnet_accordeon.pdf[Imprime le patron, window = "_blank"], réalise ton carnet accordéon et personnalise-le.
 
 | *POESIE* | *Surprise n°3 pour la fête des mères* _(déjà commencé la semaine dernière)_ +
 {site}/{semaine}/Poesies_fete_maman.pdf[Lis les 3 poèmes, window = "_blank"], choisis-en un et recopie-le dans ton cahier de poésie puis illustre-le. Apprends-le petit à petit.
 
 | *GRAMMAIRE* | Texte 24 : « Le poème » +
-Lis le texte +
-Réponds au questionnaire à l'oral (Fil conducteur) 
+{site}/{semaine}/Exercices_Texte_24_Le_poeme.pdf[Lis le texte, window = "_blank"] +
+Réponds au questionnaire à l'oral ({site}/{semaine}/Fil_conducteur_Texte_24_Le_poeme.pdf[Fil conducteur, window = "_blank"]) 
 
 *Regarde les petites vidéos* +
 https://vimeo.com/48578385[window="_blank"], +
 https://www.lumni.fr/video/l-imparfait-un-temps-regulier[window="_blank"],
 
-{site}/{semaine}/Fil_conducteur_Texte_24_Le_poeme.pdf["Lis la leçon sur l'imparfait", window = "_blank"],
+{site}/{semaine}/L_imparfait_des_verbes_en_ER_etre_avoir_15_16.pdf["Lis la leçon sur l'imparfait", window = "_blank"]
 
-{site}/{semaine}/Exercices_Texte_24_Le_poeme.pdf["Fais l' exercice 1", window = "_blank"] 
+{site}/{semaine}/Exercices_Texte_24_Le_poeme.pdf["Fais l'exercice 1", window = "_blank"] 
 (Utilise les collectes Passé 3 et Passé 4 du tableau)
 
-{site}/{semaine}/Corrige_exercices_Texte_24_Le_poeme.pdf["Corrige l' exercice 1", window = "_blank"] 
+{site}/{semaine}/Corrige_exercices_Texte_24_Le_poeme.pdf["Corrige l'exercice 1", window = "_blank"] 
 
 | *QUESTIONNER LE MONDE* +
 Sciences | Défi : « Verre à l'envers » +
-{site}/{semaine}/R7_Verre___l_envers.pdf[Lis la fiche d'expérience, window = "_blank"] 
-
-Que va-t-il se passer ? Note d'abord tes hypothèses sur une feuille de classeur.
-
-Réalise l'expérience : 
-
+*Réalise l'expérience* : +
 - Essaie de retourner un verre plein d'eau sans le vider. +
-- Matériel nécessaire : Un verre plein d'eau, des feuilles de papier Bristol, du carton, du plastique souple... +
-- Conseil : Découpe des carrés un peu plus grands que le verre.
+- *Matériel nécessaire* : Un verre plein d'eau, des feuilles de papier Bristol, du carton, du plastique souple... 
+
+_Que va-t-il se passer ?_ Note d'abord tes hypothèses sur une feuille de classeur.
+
+*Conseil* : Découpe des carrés un peu plus grands que le verre.
 
 Note tes observations sur ta feuille de classeur
 
+{site}/{semaine}/R7_Verre___l_envers.pdf[Lis la fiche d'expérience, window = "_blank"] 
 
 | *EPS* | Défi 1 : {site}/{semaine}/Saut_a_la_corde_defi_2.pdf["saut à la corde", window = "_blank"]
 
@@ -116,7 +119,7 @@ LES SAUTS DOIVENT S’ENCHAINER, SANS ARRÊTS POUR POUVOIR PASSER D’UN NIVEAU 
 Défi 2 : {site}/{semaine}/footshake_challenge_version_2.pdf["Le footshake Tik Tok challenge", window = "_blank"]
 
 https://padlet-uploads.storage.googleapis.com/460141868/5189b599dbef8ad210282a3284beec75/FootshakeChallenge540p.mp4[window="_blank"] +
-Regarde la vidéo puis la liste des instruction (tutoriel)
+Regarde la vidéo.
 
 | *Devoirs* | *Pour le mardi 12 Mai* 
 
@@ -125,4 +128,5 @@ Regarde la vidéo puis la liste des instruction (tutoriel)
 
 |===
 
+[.text-right]
 Tu peux m’écrire à : maitresse.isabelle.rolland@gmail.com
