@@ -6,7 +6,7 @@
 image::{site}/{semaine}/semaine_7.jpeg[width=720]
 
 [.text-center]
-{site}/{semaine}/Plan_de_travail_lundi_11_mai_2020.pdf[Plan de travail du lundi 11 Mai, window = "_blank"]
+{site}/{semaine}/lundi_11_mai_2020.pdf[Plan de travail du lundi 11 Mai, window = "_blank"]
 
 == RAPPELS :
 Le lavage des mains et les gestes barrières	+
