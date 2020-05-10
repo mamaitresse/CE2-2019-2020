@@ -70,7 +70,7 @@ en lien avec le 8 mai | « Otto » de _Tomi Ungerer_ +
 Lis le texte {site}/{semaine}/OTTO-MDLF-5.pdf["Lis la Lecture 5", window = "_blank"]
 
 | *PRODUCTION ECRITE* +
-en lien avec la littérature | « Otto  » de Tomi Ungerer _(En lien avec Lecture 4 de lundi 11/05)_ +
+en lien avec la littérature | « Otto  » de Tomi Ungerer (En lien avec {site}/{semaine}/questionnaires-OTTO-MDLF-4.pdf[Lecture 4 de lundi 11/05, window = "_blank"] ) +
 Tu es journaliste et tu rédiges un article sur le courageux Otto. +
 Ecris l'article en n'oubliant pas de préciser les «5 W » : Qui ? Où ? Quand ? Comment ? Pourquoi ? +
 Rédige au moins 5 phrases _(Pense à sauter des lignes)_. +
