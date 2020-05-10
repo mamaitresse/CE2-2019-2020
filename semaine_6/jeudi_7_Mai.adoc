@@ -1,7 +1,7 @@
 = JEUDI 7 MAI 2020 
 :site: https://mamaitresse.github.io/CE2-2019-2020 
 // :site: file:///Users/frvidal/Perso/isa/CE2-2019-2020
-:semaine: semaine_32
+:semaine: semaine_6
 
 image::{site}/{semaine}/mamans.jpg[width=100%]
 
