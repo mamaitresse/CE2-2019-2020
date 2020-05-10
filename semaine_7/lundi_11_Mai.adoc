@@ -37,7 +37,7 @@ A la fin, écoute à nouveau la dictée pour vérifier les majuscules, la ponctu
 
 [cols="^, 1*"]
 |===
-| *ORTHOGRAPHES* | {site}/{semaine}/Semaine_26_Dictee_finale.pdf["Ensuite, corrige ta dictée", window = "_blank"]
+| *ORTHOGRAPHE* | {site}/{semaine}/Semaine_26_Dictee_finale.pdf["Ensuite, corrige ta dictée", window = "_blank"]
 | **Préparation de dictée :**  |
 {site}/{semaine}/Semaine_27_preparation_de_dictee_L_imparfait.pdf["Apprends les 4 premiers mots de la liste 27 et fais l'exercice 1", window = "_blank"] +
 {site}/{semaine}/Semaine_27_Correction_preparation_de_dictee_L_imparfait.pdf["Corrige l'exercice 1", window = "_blank"]
