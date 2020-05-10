@@ -77,7 +77,7 @@ Lis le texte {site}/{semaine}/Tapuscrit-OTTO-MDLF-4.pdf["Lis la Lecture 4 « Les
 
 | *GRAMMAIRE* | Texte 24 : « Le poème » +
 Lis le texte +
-Réponds au questionnaire à l'oral (Fil conducteur)                           
+Réponds au questionnaire à l'oral (Fil conducteur) 
 
 *Regarde les petites vidéos* +
 https://vimeo.com/48578385[window="_blank"], +
