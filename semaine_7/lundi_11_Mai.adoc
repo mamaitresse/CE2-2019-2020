@@ -71,9 +71,9 @@ Lis le texte {site}/{semaine}/Tapuscrit-OTTO-MDLF-4.pdf["Lis la Lecture 4 « Les
 
 {site}/{semaine}/questionnaires-OTTO-MDLF-4.pdf["Réponds au questionnaire Lecture 4", window = "_blank"] *(exercice numéro 1 uniquement)* (à l'oral ou à l'écrit)
 
-| *ARTS VISUELS* | Surprise n° 5 pour la fête des mères + 
-{site}/{semaine}/Un_carnet_accordeon_pour_la_fete_des_meres.pdf[Lis la fiche de fabrication, window = "_blank"]. +
+| *ARTS VISUELS* | *Surprise n° 5 pour la fête des mères*
 
+{site}/{semaine}/Un_carnet_accordeon_pour_la_fete_des_meres.pdf[Lis la fiche de fabrication, window = "_blank"]. +
 {site}/{semaine}/Patron_pour_le_carnet_accordeon.pdf[Imprime le patron, window = "_blank"], réalise ton carnet accordéon et personnalise-le.
 
 | *POESIE* | *Surprise n°3 pour la fête des mères* _(déjà commencé la semaine dernière)_ +
