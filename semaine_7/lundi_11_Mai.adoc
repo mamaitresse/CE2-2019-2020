@@ -1,0 +1,128 @@
+= LUNDI 11 MAI 2020 
+// :site: https://mamaitresse.github.io/CE2-2019-2020 
+:site: file:///Users/frvidal/Perso/isa/CE2-2019-2020
+:semaine: semaine_7
+
+image::{site}/{semaine}/semaine_7.jpeg[width=720]
+
+[.text-center]
+{site}/{semaine}/Plan_de_travail_lundi_11_mai_2020.pdf[Plan de travail du lundi 11 Mai, window = "_blank"]
+
+== RAPPELS :
+Le lavage des mains et les gestes barrières	+
+**Se laver les mains : le meilleur moyen de se débarrasser des microbes et donc du COVID-19**
+
+[.text-center]
+video::UNHMb0aLKJI[youtube, width=600, height=400]
+
+[.text-center]
+video::HXSP-ph_wvE[youtube, width=600, height=400]
+
+
+[cols="^, 1*"]
+|===
+| *RAPPELS* | {site}/{semaine}/POSTER_A4_les_gestes_barrieres.pdf["Les gestes barrières illustrés", window = "_blank"]
+| | {site}/{semaine}/Le_Petit_Quotidien_6211.pdf["Le Petit Quotidien", window = "_blank"] : Le déconfinement se fera petit à petit, car le coronavirus n’a pas disparu
+|===
+
+
+== Orthographe
+*Dictée* : Ecoute la dictée finale du lundi 11
+
+[.text-center]
+audio::{site}/{semaine}/Dictee_finale_lundi_11.m4a[]
+
+A la fin, écoute à nouveau la dictée pour vérifier les majuscules, la ponctuation, que tu as écrit tous les mots et que tu as fait tous les accords, puis chasse les erreurs.
+
+
+[cols="^, 1*"]
+|===
+| *ORTHOGRAPHES* | {site}/{semaine}/Semaine_26_Dictee_finale.pdf["Ensuite, corrige ta dictée", window = "_blank"]
+| **Préparation de dictée :**  |
+{site}/{semaine}/Semaine_27_preparation_de_dictee_L_imparfait.pdf["Apprends les 4 premiers mots de la liste 27 et fais l'exercice 1", window = "_blank"] +
+{site}/{semaine}/Semaine_27_Correction_preparation_de_dictee_L_imparfait.pdf["Corrige l'exercice 1", window = "_blank"]
+|===
+
+
+== Nombres et calculs
+**Pour comprendre la division par 25** _(sans la poser)_ +
+
+[.text-center]
+Regarde la vidéo             
+ 
+[.text-center]
+video::UAb9Y4JoEx8[youtube, width=600, height=400]
+
+[cols="^, 1*"]
+|===
+| *NOMBRES ET CALCULS* | {site}/{semaine}/Exercices_diviser_par_25.pdf["Fais l'exercice sur la division par 25", window = "_blank"]
+
+{site}/{semaine}/correction_exercices_diviser_par_25.pdf["Corrige l'exercice", window = "_blank"]
+
+Révise les tables de multiplication x 6, x 7, x 8 : {site}/{semaine}/Les_tables_de_7__8_et_9_coloriage_mathematique.pdf["coloriage magique", window = "_blank"]
+        
+| *Littérature* +
+en lien avec le 8 mai | « Otto » de _Tomi Ungerer_ +
+Lis le texte {site}/{semaine}/Tapuscrit-OTTO-MDLF-4.pdf["Lis la Lecture 4 « Les américains »", window = "_blank"]
+
+{site}/{semaine}/questionnaires-OTTO-MDLF-4.pdf["Réponds au questionnaire Lecture 4", window = "_blank"] (à l'oral ou à l'écrit)
+
+| *ARTS VISUELS* | Surprise n° 5 pour la fête des mères + 
+{site}/{semaine}/Fiche_de_fabrication_La_Gazette_des_Mamans.pdf[Lis la fiche de fabrication, window = "_blank"]. +
+
+{site}/{semaine}/Fiche_a_imprimer_Gazette_de_la_meilleure_maman.pdf[Imprime le patron, window = "_blank"], réalise ton carnet accordéon et personnalise-le.
+
+| *POESIE* | *Surprise n°3 pour la fête des mères* _(déjà commencé la semaine dernière)_ +
+{site}/{semaine}/Poesies_fete_maman.pdf[Lis les 3 poèmes, window = "_blank"], choisis-en un et recopie-le dans ton cahier de poésie puis illustre-le. Apprends-le petit à petit.
+
+| *GRAMMAIRE* | Texte 24 : « Le poème » +
+Lis le texte +
+Réponds au questionnaire à l'oral (Fil conducteur)                           
+
+*Regarde les petites vidéos* +
+https://vimeo.com/48578385[window="_blank"], +
+https://www.lumni.fr/video/l-imparfait-un-temps-regulier[window="_blank"],
+
+{site}/{semaine}/Fil_conducteur_Texte_24_Le_poeme.pdf["Lis la leçon sur l'imparfait", window = "_blank"],
+
+{site}/{semaine}/Exercices_Texte_24_Le_poeme.pdf["Fais l' exercice 1", window = "_blank"] 
+(Utilise les collectes Passé 3 et Passé 4 du tableau)
+
+{site}/{semaine}/Corrige_exercices_Texte_24_Le_poeme.pdf["Corrige l' exercice 1", window = "_blank"] 
+
+| *QUESTIONNER LE MONDE* +
+Sciences | Défi : « Verre à l'envers » +
+{site}/{semaine}/R7_Verre___l_envers.pdf[Lis la fiche d'expérience, window = "_blank"] 
+
+Que va-t-il se passer ? Note d'abord tes hypothèses sur une feuille de classeur.
+
+Réalise l'expérience : 
+
+- Essaie de retourner un verre plein d'eau sans le vider. +
+- Matériel nécessaire : Un verre plein d'eau, des feuilles de papier Bristol, du carton, du plastique souple... +
+- Conseil : Découpe des carrés un peu plus grands que le verre.
+
+Note tes observations sur ta feuille de classeur
+
+
+| *EPS* | Défi 1 : {site}/{semaine}/Saut_a_la_corde_defi_2.pdf["saut à la corde", window = "_blank"]
+
+1. Saute sur le pied gauche le nombre d'années de ton âge. +
+2. Saute sur le pied droit le nombre d'années de ton âge. +
+3. Saute sur d'un pied sur 'autres le nombre d'années de ton âge. 
+
+LES SAUTS DOIVENT S’ENCHAINER, SANS ARRÊTS POUR POUVOIR PASSER D’UN NIVEAU AU NIVEAU SUPERIEUR
+
+Défi 2 : {site}/{semaine}/footshake_challenge_version_2.pdf["Le footshake Tik Tok challenge", window = "_blank"]
+
+https://padlet-uploads.storage.googleapis.com/460141868/5189b599dbef8ad210282a3284beec75/FootshakeChallenge540p.mp4[window="_blank"] +
+Regarde la vidéo puis la liste des instruction (tutoriel)
+
+| *Devoirs* | *Pour le mardi 12 Mai* 
+
+*Orthographe* : Apprendre 4 mots de la liste 27 + 
+*Grammaire* : Apprendre la leçon sur l'imparfait (les verbes en ER, être et avoir)
+
+|===
+
+Tu peux m’écrire à : maitresse.isabelle.rolland@gmail.com
