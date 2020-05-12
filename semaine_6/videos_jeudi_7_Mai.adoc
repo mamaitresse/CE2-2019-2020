@@ -4,7 +4,7 @@
 :semaine: semaine_6
 
 [cols="a,a"]
-!===
+!====
 | 
 [.text-center]
 la classe | 
@@ -17,4 +17,4 @@ video::{site}/{semaine}/IMG_8570.MOV[width=300]
 |
 [.text-center]
 video::{site}/{semaine}/IMG_8586.MOV[width=300]
-!===
+!====

@@ -63,7 +63,7 @@ video::F6uE8rtKqx0[youtube, width=600, height=400]
 |===
 | *NOMBRES ET CALCULS* | {site}/{semaine}/Exercices_La_division_par_10_15_50_et_100.pdf["Fais l'exercice", window = "_blank"]
 
-{site}/{semaine}/correction_exercices_diviser_par_25.pdf["Corrige l'exercice", window = "_blank"]
+{site}/{semaine}/Correction_exercices_La_division_par_0_15_50_et_100.pdf["Corrige l'exercice", window = "_blank"]
 
 | *LITTERATURE* +
 en lien avec le 8 mai | « Otto » de _Tomi Ungerer_ +
