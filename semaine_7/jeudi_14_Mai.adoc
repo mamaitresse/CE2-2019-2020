@@ -23,6 +23,18 @@ la chanson des gestes barrières pour l’école, d’Aldebert.
 [.text-center]
 video::0MHnjZ0qvbw[youtube, width=500, height=320]
 
+
+|
+[.text-center]
+=== *ANGLAIS*
+
+|
+.*Rituels*
+_What's the day today?  What’s the weather like ? How are you ? What’s your name ? How old are you ?_
+
+(Révisions : revoir les notions déjà abordées les semaines précédentes)
+
+
 |
 [.text-center]
 === *ORTHOGRAPHE*
@@ -44,7 +56,7 @@ Ensuite,
 
 .*Synthèse sur le féminin des noms*
 
-* {site}/{semaine}/Synthese_Le_feminin_des_noms_Exercices.pdf["Fais les exercices 1, 2 et 3", window = "_blank"]
+* {site}/{semaine}/Synthese_Le_feminin_des_noms_Exercices.pdf["Fais les exercices 1, 2 et 3", window = "_blank"] _(utilise ton petit cahier gris de leçons)_
 * {site}/{semaine}/Synthese_Le_feminin_des_noms_Corrections.pdf["Corrige les exercices 1, 2 et 3", window = "_blank"]
 
 |
@@ -87,9 +99,9 @@ _(en prévision de l’évaluation prévue au retour en classe après le 25 mai)
 * {site}/{semaine}/Le_bureau_de_vote_BDG_Fiches_1_a_4.pdf["Fichier BDG en pièce jointe", window = "_blank"]
 
 .*Regarde la vidéo*
-http://www.lumni.fr/video/comment-ca-se-passe-le-vote[Regarde la vidéo, window = "_blank"] +
-Comment ça se passe le vote ? +
-- 1 jour, 1 question
+video::bFni39BhfkY[youtube, width=500, height=320]
+
+Comment ça se passe le vote ? - 1 jour, 1 question lumni
  
 Relis la fiche EMC 5 et entraine-toi à légender le schéma avec le vocabulaire du bureau de vote (fiches n°2  et 3 du fichier joint)
 
@@ -99,7 +111,7 @@ Relis la fiche EMC 5 et entraine-toi à légender le schéma avec le vocabulaire
 
 | 
 .*Pour le jeudi 14 Mai*
-*Orthographe* : Apprendre 4 derniers mots de la liste 27
+*Orthographe* : Apprendre les 4 derniers mots de la liste 27
 *Grammaire* : Apprendre la leçon sur l'imparfait (les verbes du 3 ème groupe : aller, dire, faire, voir))
 
 |===
