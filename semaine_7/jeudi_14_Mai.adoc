@@ -1,0 +1,106 @@
+= Jeudi 14 MAI 2020 
+// :site: https://mamaitresse.github.io/CE2-2019-2020 
+:site: file:///Users/frvidal/Perso/isa/CE2-2019-2020
+:semaine: semaine_7
+
+[.text-center]
+image::{site}/{semaine}/semaine_7.jpeg[width=640]
+
+[.text-center]
+{site}/{semaine}/jeudi_14_mai.pdf[Plan de travail du jeudi 14 Mai, window = "_blank"]
+
+[cols="a,a"]
+|=== 
+|
+[.text-center]
+=== *MUSIQUE CHANT*
+
+[.text-left]
+.« Corona Minus »
+la chanson des gestes barrières pour l’école, d’Aldebert.
+|
+
+[.text-center]
+video::0MHnjZ0qvbw[youtube, width=500, height=320]
+
+|
+[.text-center]
+=== *ORTHOGRAPHE*
+|
+.*Dictée :*
+[.text-center]
+Ecoute la dictée du jeudi 14 (jour 2)
+[.text-center]
+audio::{site}/{semaine}/jeudi_14_Mai.m4a[]
+
+A la fin, écoute à nouveau la dictée pour vérifier les majuscules, la ponctuation, que tu as écrit tous les mots et que tu as fait tous les accords, puis chasse les erreurs.
+
+Ensuite,
+{site}/{semaine}/Corrige_Jour_2_Dictee_27.pdf["corrige ta dictée", window = "_blank"] (jour 2)
+
+* {site}/{semaine}/Semaine_27_preparation_de_dictee_L_imparfait.pdf["Apprends les 4 mots suivants de la liste 27 et fais l’exercice 3", window = "_blank"]
+* {site}/{semaine}/Semaine_27_Correction_preparation_de_dictee_L_imparfait.pdf["Corrige l'exercice 3", window = "_blank"]
+
+.*Synthèse sur le féminin des noms*
+
+* {site}/{semaine}/Synthese_Le_feminin_des_noms_Exercices.pdf["Fais les exercices 1, 2 et 3", window = "_blank"]
+* {site}/{semaine}/Synthese_Le_feminin_des_noms_Corrections.pdf["Corrige les exercices 1, 2 et 3", window = "_blank"]
+
+|
+[.text-center]
+=== *NOMBRES ET CALCULS*
+
+|
+.*Les divisions élémentaires*
+* {site}/{semaine}/Chapitre_69_Les_divisions_elementaires.pdf[Fais la fiche d’exercices, window = "_blank"]
+* {site}/{semaine}/Correction_chapitre_69_les_divisions_elementaires.pdf[Corrige la fiche d’exercices, window = "_blank"] 
+
+
+
+| 
+[.text-center]
+=== *LITTERATURE*
+
+|
+Lis {site}/{semaine}/biographie_Louis_Braille.pdf[la biographie de Louis Braille, window = "_blank"]  +
+C'est un texte qui raconte la vie de louis braille
+| 
+[.text-center]
+=== *GRAMMAIRE*
+
+|
+.*Révision sur le futur*
+_(en prévision de l’évaluation prévue au retour en classe après le 25 mai)_ 
+
+* {site}/{semaine}/FUTUR_DES_VERBES_EN_ER_coloriage_magique.pdf[Coloriage magique sur le futur des verbes en ER, window = "_blank"] 
+* {site}/{semaine}/correction_coloriage_futur_des_verbs_en_er.pdf[Regarde la correction, window = "_blank"]
+
+|
+[.text-center]
+=== *EMC*
+
+|
+.*Le bureau de vote*
+
+* Fiche EMC 5 dans la chemise bleue ou dans ton grand classeur, dernier intercalaire
+* {site}/{semaine}/Le_bureau_de_vote_BDG_Fiches_1_a_4.pdf["Fichier BDG en pièce jointe", window = "_blank"]
+
+.*Regarde la vidéo*
+http://www.lumni.fr/video/comment-ca-se-passe-le-vote[Regarde la vidéo, window = "_blank"]
+_Comment ça se passe le vote ?_ - 1 jour, 1 question
+ 
+Relis la fiche EMC 5 et entraine-toi à légender le schéma avec le vocabulaire du bureau de vote (fiches n°2  et 3 du fichier joint)
+
+| 
+[.text-center]
+=== *DEVOIRS* 
+
+| 
+.*Pour le jeudi 14 Mai*
+*Orthographe* : Apprendre 4 derniers mots de la liste 27
+*Grammaire* : Apprendre la leçon sur l'imparfait (les verbes du 3 ème groupe : aller, dire, faire, voir))
+
+|===
+
+[.text-right]
+Tu peux m’écrire à : maitresse.isabelle.rolland@gmail.com
