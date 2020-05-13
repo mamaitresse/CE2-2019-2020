@@ -38,7 +38,8 @@ A la fin, écoute à nouveau la dictée pour vérifier les majuscules, la ponctu
 Ensuite,
 {site}/{semaine}/Corrige_Jour_2_Dictee_27.pdf["corrige ta dictée", window = "_blank"] (jour 2)
 
-* {site}/{semaine}/Semaine_27_preparation_de_dictee_L_imparfait.pdf["Apprends les 4 mots suivants de la liste 27 et fais l’exercice 3", window = "_blank"]
+* {site}/{semaine}/Semaine_27_preparation_de_dictee_L_imparfait.pdf["Apprends les 4 mots suivants de la liste 27", window = "_blank"]
+* {site}/{semaine}/Semaine_27_preparation_de_dictee_L_imparfait.pdf["Fais l’exercice 3", window = "_blank"]
 * {site}/{semaine}/Semaine_27_Correction_preparation_de_dictee_L_imparfait.pdf["Corrige l'exercice 3", window = "_blank"]
 
 .*Synthèse sur le féminin des noms*
