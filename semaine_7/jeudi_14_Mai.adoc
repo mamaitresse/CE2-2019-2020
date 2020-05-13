@@ -87,7 +87,7 @@ _(en prévision de l’évaluation prévue au retour en classe après le 25 mai)
 
 .*Regarde la vidéo*
 http://www.lumni.fr/video/comment-ca-se-passe-le-vote[Regarde la vidéo, window = "_blank"] +
-_Comment ça se passe le vote ?_ +
+Comment ça se passe le vote ? +
 - 1 jour, 1 question
  
 Relis la fiche EMC 5 et entraine-toi à légender le schéma avec le vocabulaire du bureau de vote (fiches n°2  et 3 du fichier joint)
