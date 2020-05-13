@@ -68,8 +68,6 @@ Ensuite,
 * {site}/{semaine}/Chapitre_69_Les_divisions_elementaires.pdf[Fais la fiche d’exercices, window = "_blank"]
 * {site}/{semaine}/correction-exo-maths-jeudi-14.pdf[Corrige la fiche d’exercices, window = "_blank"] 
 
-
-
 | 
 [.text-center]
 === *LITTERATURE*
@@ -112,7 +110,7 @@ Relis la fiche EMC 5 et entraine-toi à légender le schéma avec le vocabulaire
 === *DEVOIRS* 
 
 | 
-.*Pour le jeudi 14 Mai*
+.*Pour le vendredi 15 Mai*
 *Orthographe* : Apprendre les 4 derniers mots de la liste 27
 *Grammaire* : Apprendre la leçon sur l'imparfait (les verbes du 3 ème groupe : aller, dire, faire, voir))
 
