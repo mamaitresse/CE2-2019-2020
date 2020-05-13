@@ -66,7 +66,7 @@ Ensuite,
 |
 .*Les divisions élémentaires*
 * {site}/{semaine}/Chapitre_69_Les_divisions_elementaires.pdf[Fais la fiche d’exercices, window = "_blank"]
-* {site}/{semaine}/Correction_chapitre_69_les_divisions_elementaires.pdf[Corrige la fiche d’exercices, window = "_blank"] 
+* {site}/{semaine}/correction-exo-maths-jeudi-14.pdf[Corrige la fiche d’exercices, window = "_blank"] 
 
 
 
@@ -98,10 +98,12 @@ _(en prévision de l’évaluation prévue au retour en classe après le 25 mai)
 * Fiche EMC 5 dans la chemise bleue ou dans ton grand classeur, dernier intercalaire
 * {site}/{semaine}/Le_bureau_de_vote_BDG_Fiches_1_a_4.pdf["Fichier BDG en pièce jointe", window = "_blank"]
 
-.*Regarde la vidéo*
-video::bFni39BhfkY[youtube, width=500, height=320]
+Révision en vue du vote pour le prix littéraire +
 
-Comment ça se passe le vote ? - 1 jour, 1 question lumni
+.*Regarde la vidéo*
+Comment ça se passe le vote ?
+
+video::bFni39BhfkY[youtube, width=500, height=320]
  
 Relis la fiche EMC 5 et entraine-toi à légender le schéma avec le vocabulaire du bureau de vote (fiches n°2  et 3 du fichier joint)
 
