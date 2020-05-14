@@ -9,7 +9,7 @@ image::{site}/{semaine}/semaine_7.jpeg[width=640]
 [.text-center]
 {site}/{semaine}/vendredi_15_mai.pdf[Plan de travail du vendredi 15 Mai, window = "_blank"]
 
-[cols="a,a"]
+[cols="1a,2a"]
 |=== 
 
 |
