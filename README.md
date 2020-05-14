@@ -1,5 +1,7 @@
 ## Semaine 7
 
+[Vendredi 15 Mai](https://mamaitresse.github.io/CE2-2019-2020/semaine_7/vendredi_15_Mai.html)
+
 [Jeudi 14 Mai](https://mamaitresse.github.io/CE2-2019-2020/semaine_7/jeudi_14_Mai.html)
 
 [Mardi 12 Mai](https://mamaitresse.github.io/CE2-2019-2020/semaine_7/mardi_12_Mai.html)
