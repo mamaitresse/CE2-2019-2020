@@ -1,0 +1,16 @@
+= *LUNDI 18 MAI 2020*
+// :site: https://mamaitresse.github.io/CE2-2019-2020 
+:site: file:///Users/frvidal/Perso/isa/CE2-2019-2020
+:semaine: semaine_8
+:nofooter:
+
+== *ORTHOGRAPHE*
+
+.*Dictée :*
+
+[.text-center]
+Ecoute la dictée du lundi 18 (dictée finale)
+
+[.text-center]
+audio::{site}/{semaine}/lundi_18_Mai.m4a[]
+

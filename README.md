@@ -1,3 +1,7 @@
+## Semaine 8
+
+[Toute la semaine est ici](https://mamaitresse.github.io/CE2-2019-2020/semaine_7/vendredi_15_Mai.html)
+
 ## Semaine 7
 
 [Vendredi 15 Mai](https://mamaitresse.github.io/CE2-2019-2020/semaine_7/vendredi_15_Mai.html)
