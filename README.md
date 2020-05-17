@@ -1,6 +1,6 @@
 ## Semaine 8
 
-[Toute la semaine est ici](https://mamaitresse.github.io/CE2-2019-2020/semaine_7/vendredi_15_Mai.html)
+[Toute la semaine est ici](https://padlet.com/maitresseisabellerolland/j3bxhhorztrrn8wt#)
 
 ## Semaine 7
 
